@@ -1,4 +1,4 @@
-# Permission_Library
+# Permission_Library [![Release](https://jitpack.io/v/jitpack/maven-simple.svg?style=flat-square)](https://jitpack.io/#jitpack/maven-simple)
 
 This is a simple permission library for Android that allows you to easily request runtime permissions.
 
@@ -47,7 +47,7 @@ This method requires an Activity instance, an implementation of the `PermissionG
 
 3) Add the following code to your `AndroidManifest.xml` file:
 
-	<uses-permission android:name="android.permission.XXX" />
+		<uses-permission android:name="android.permission.XXX" />
 
 * Replace XXX with the name of the permission you want to request.
 
